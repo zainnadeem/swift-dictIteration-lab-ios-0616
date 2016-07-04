@@ -1,16 +1,16 @@
 /*: Outline
  # Iterating over a Dictionary
-
+ 
  ### Readings associated with this lab
-
+ 
  * [Dictionary](https://github.com/learn-co-curriculum/swift-dictionary-readme)
  * [Iterating over a Dictionary](https://github.com/learn-co-curriculum/swift-dictionaryIteration-readme)
  */
 /*: question1
  ### 1. Create a dictionary _variable_ that maps band names to their highest-selling album.
-
+ 
  Here are some bands and albums you can use:
-
+ 
  * Nirvana: _Nevermind_
  * Blondie: _Parallel Lines_
  * The Kinks: _Low Budget_
@@ -71,7 +71,7 @@ let bandName = "Nirvana"
 
 /*: question8
  ### 8. Create a _constant_ dictionary to store the exam results described in Question 8. This dictionary should be of type `[Int: String]`. Here are the results you can use:
-
+ 
  * Grade 9: B
  * Grade 10: A
  * Grade 11: C
