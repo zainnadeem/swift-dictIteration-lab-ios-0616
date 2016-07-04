@@ -6,6 +6,10 @@
 
 ## Learning Objectives - The student should be able to...
 
-* Needs to be filled out
+* Create dictionaries of various types
+* Add and remove items from dictionaries
+* Iterate through dictionaries to retrieve their contents
+* Retrieve values from dictionaries using keys
+* Unwrap retrieved values from dictionaries
 
 <a href='https://learn.co/lessons/DictIterationLab' data-visibility='hidden'>View this lesson on Learn.co</a>
